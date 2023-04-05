@@ -11,6 +11,7 @@
     <style name="MainStyle.PrimaryText">
         <item name="android:textColor">?attr/colorPrimary</item>
     </style>
+
     <style name="MainStyle.SecondaryText">
         <item name="android:textColor">?attr/colorSecondaryVariant</item>
     </style>
